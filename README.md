@@ -1,5 +1,5 @@
 # Destek Sayfası 
-### (For English click here)
+### ([English için tıklayınız](README_EN.md))
 
 Bu site, geliştirilen mobil uygulamaların kurumsal bir çerçevede tanıtılması amacıyla hazırlanmıştır.  
 Öncelikli olarak **Osmanlıca Oku** uygulaması olmak üzere, Android ve iOS platformlarında sunulan uygulamalara ilişkin genel bilgiler bu alanda paylaşılacaktır.
