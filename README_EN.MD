@@ -1,5 +1,5 @@
 # Support Page
-### (Türkçe için burayı tıklayınız)
+
 ### ([Türkçe için tıklayınız](README.md))
 
 This website has been prepared to present developed mobile applications within a corporate framework.  
