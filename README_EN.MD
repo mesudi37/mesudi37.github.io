@@ -1,4 +1,5 @@
-# mesudi37.github.io
+# Support Page
+### (Türkçe için burayı tıklayınız)
 
 This website has been prepared to present developed mobile applications within a corporate framework.  
 Primarily featuring the **Osmanlıca Oku** application, general information about applications available on Android and iOS platforms will be shared here.
