@@ -2,7 +2,7 @@
 ### ([For English click here](README_EN.md))
 
 Bu site, geliştirilen mobil uygulamaların kurumsal bir çerçevede tanıtılması amacıyla hazırlanmıştır.  
-Öncelikli olarak **Osmanlıca Oku** uygulaması olmak üzere, Android ve iOS platformlarında sunulan uygulamalara ilişkin genel bilgiler bu alanda paylaşılacaktır.
+Öncelikli olarak **Osmanlıca Oku** ve **Osmanlıca Havadis** uygulamaları olmak üzere, Android ve iOS platformlarında sunulan uygulamalara ilişkin genel bilgiler bu alanda paylaşılacaktır.
 
 ## Uygulama Portföyü
 
@@ -11,6 +11,32 @@ Osmanlı Türkçesi okuma becerisini geliştirmeye odaklanan bir mobil uygulamad
 Kullanıcı deneyimini esas alan sade arayüzü ve öğrenme süreçlerini destekleyen yapısıyla, farklı seviyelerdeki kullanıcılar için erişilebilir bir kullanım sunmayı hedeflemektedir.
 
 ### Osmanlıca Oku Bilgi
+-Osmanlıca öğrenmek isteyenler
+-Osmanlı Türkçesi okumayı geliştirmek isteyenler
+-Tarih meraklıları
+-Osmanlı belgelerini ve metinlerini okumaya hazırlanan öğrenciler
+-Kendi hızında pratik yapmak isteyen herkes
+
+## İçerik Planı
+
+İlerleyen süreçte bu sayfada aşağıdaki başlıklara yer verilecektir:
+
+- Uygulama bazlı detaylı tanıtım içerikleri
+- Temel özellik ve kullanım alanı açıklamaları
+- Ekran görüntüleri ve görsel materyaller
+- Sürüm notları ve güncelleme duyuruları
+- App Store ve Google Play indirme bağlantıları
+
+## Platformlar
+
+- Android
+- iOS
+
+### Osmanlıca Havadis
+Osmanlı Türkçesi okuma becerisini geliştirmeye odaklanan bir mobil uygulamadır.  
+Kullanıcı deneyimini esas alan sade arayüzü ve öğrenme süreçlerini destekleyen yapısıyla, farklı seviyelerdeki kullanıcılar için erişilebilir bir kullanım sunmayı hedeflemektedir.
+
+### Osmanlıca Havadis Bilgi
 -Osmanlıca öğrenmek isteyenler
 -Osmanlı Türkçesi okumayı geliştirmek isteyenler
 -Tarih meraklıları
